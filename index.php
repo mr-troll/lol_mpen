@@ -121,8 +121,8 @@ foreach($champs as $id=>$champ){
 	echo '<div class="champ">
 		<div class="ico" style="background: url(\'http://ddragon.leagueoflegends.com/cdn/6.9.1/img/sprite/'.$champ['image']['sprite'].'\') -'.$champ['image']['x'].'px -'.$champ['image']['y'].'px no-repeat;"></div>
 		'.$champ['name'].'
-		<br />HP: <i>'.$hp.'</i>
-		<br />RESIST: <i>'.$resist.'</i>
+		<br />HP on 18: <i>'.$hp.'</i>
+		<br />RESIST on 18: <i>'.$resist.'</i>
 	</div>';
 }
 echo '</div>';
