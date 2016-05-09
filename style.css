@@ -1,0 +1,28 @@
+body {
+	font:13px calibri;
+	background:url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/swirl_pattern.png');
+	background:url('http://www.webdesignai.com/wp-content/uploads/2014/06/website-backgrounds-5.png');
+}
+
+h1 {font-size:40px;}
+
+.ico {
+	width:48px;height:48px;float:left;
+	margin:4px;
+}
+
+.champ {
+	/*background: url('//ddragon.leagueoflegends.com/cdn/6.9.1/img/sprite/champion0.png') -384px -0px no-repeat;*/
+	display:inline-block;
+	width:200px;
+	margin:10px;border:1px solid #999;
+	padding:3px;
+	background:#eee;border-radius:4px;
+}
+.item {
+	display:inline-block;
+	min-height:50px;
+	margin:10px;border:1px solid #999;
+	padding:3px;
+	background:#eee;border-radius:4px;
+}
